@@ -1,2 +1,2 @@
 # Infected_Mario
-This is a platform game.
+This is a simple platform game as my phyton project.
